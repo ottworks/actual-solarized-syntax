@@ -1,0 +1,15 @@
+{
+  "name": "actual-solarized-syntax",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "everyone else is wrong",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/daaott/actual-solarized-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
